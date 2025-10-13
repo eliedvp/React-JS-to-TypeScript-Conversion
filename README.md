@@ -1,10 +1,10 @@
 # Building React Apps with TypeScript
 
-## 🎯 Objectif
+##  Objectif
 Convertir deux composants React écrits en JavaScript vers TypeScript
 et expliquer les étapes de la conversion.
 
-## 🧱 Étapes principales
+##  Étapes principales
 
 1. Création du projet avec TypeScript :
    ```bash
